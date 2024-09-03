@@ -1,0 +1,7 @@
+__pycache__/
+temp/*
+temppdf*
+
+!temp/.gitkeep
+
+teste.db
